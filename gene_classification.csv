@@ -1,0 +1,730 @@
+gene,n_cpgs,n_GO_BP_terms,keyword_category,all_matching_categories,needs_review,final_category,changed_on_review
+FGFR3,1,33,(i) Growth factor & hormone signalling,(i) Growth factor & hormone signalling;(iii) Immune & inflammatory (incl. JAK-STAT),True,(i) Growth factor & hormone signalling,False
+GRB10,1,18,(i) Growth factor & hormone signalling,(i) Growth factor & hormone signalling,False,(i) Growth factor & hormone signalling,False
+H19,2,0,(v) Other / unclassified,,True,(i) Growth factor & hormone signalling,True
+IGF1R,1,33,(i) Growth factor & hormone signalling,(i) Growth factor & hormone signalling;(iii) Immune & inflammatory (incl. JAK-STAT);(iv) Neurodevelopment & synaptic function,True,(i) Growth factor & hormone signalling,False
+IGFBP3,1,12,(i) Growth factor & hormone signalling,(i) Growth factor & hormone signalling,False,(i) Growth factor & hormone signalling,False
+IRS2,2,32,(i) Growth factor & hormone signalling,(i) Growth factor & hormone signalling;(ii) Metabolic regulation (incl. one-carbon);(iii) Immune & inflammatory (incl. JAK-STAT),True,(i) Growth factor & hormone signalling,False
+KCNQ1,1,79,(i) Growth factor & hormone signalling,(i) Growth factor & hormone signalling;(ii) Metabolic regulation (incl. one-carbon);(iv) Neurodevelopment & synaptic function,True,(i) Growth factor & hormone signalling,False
+MEST,1,8,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT);(iv) Neurodevelopment & synaptic function,True,(i) Growth factor & hormone signalling,True
+PLAGL1,1,7,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(i) Growth factor & hormone signalling,True
+TGFBR1,1,99,(i) Growth factor & hormone signalling,(i) Growth factor & hormone signalling;(ii) Metabolic regulation (incl. one-carbon);(iii) Immune & inflammatory (incl. JAK-STAT);(iv) Neurodevelopment & synaptic function,True,(i) Growth factor & hormone signalling,False
+THRA,1,19,(i) Growth factor & hormone signalling,(i) Growth factor & hormone signalling,False,(i) Growth factor & hormone signalling,False
+WT1,8,61,(ii) Metabolic regulation (incl. one-carbon),(ii) Metabolic regulation (incl. one-carbon),False,(i) Growth factor & hormone signalling,True
+AHRR,1,7,(ii) Metabolic regulation (incl. one-carbon),(ii) Metabolic regulation (incl. one-carbon),False,(iii) Immune & inflammatory (incl. JAK-STAT),True
+JAK1,1,45,(i) Growth factor & hormone signalling,(i) Growth factor & hormone signalling;(iii) Immune & inflammatory (incl. JAK-STAT),True,(iii) Immune & inflammatory (incl. JAK-STAT),True
+LY86,1,4,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+SOCS6,1,6,(i) Growth factor & hormone signalling,(i) Growth factor & hormone signalling;(iii) Immune & inflammatory (incl. JAK-STAT),True,(iii) Immune & inflammatory (incl. JAK-STAT),True
+TLR3,1,53,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+ABCG1,1,35,(ii) Metabolic regulation (incl. one-carbon),(ii) Metabolic regulation (incl. one-carbon),False,(ii) Metabolic regulation (incl. one-carbon),False
+DNMT3A,2,22,(ii) Metabolic regulation (incl. one-carbon),(ii) Metabolic regulation (incl. one-carbon);(iv) Neurodevelopment & synaptic function,True,(ii) Metabolic regulation (incl. one-carbon),False
+FADS2,2,9,(ii) Metabolic regulation (incl. one-carbon),(ii) Metabolic regulation (incl. one-carbon);(iii) Immune & inflammatory (incl. JAK-STAT),True,(ii) Metabolic regulation (incl. one-carbon),False
+LDHA,2,7,(ii) Metabolic regulation (incl. one-carbon),(ii) Metabolic regulation (incl. one-carbon),False,(ii) Metabolic regulation (incl. one-carbon),False
+SCD,1,5,(ii) Metabolic regulation (incl. one-carbon),(ii) Metabolic regulation (incl. one-carbon),False,(ii) Metabolic regulation (incl. one-carbon),False
+SREBF2,1,26,(ii) Metabolic regulation (incl. one-carbon),(ii) Metabolic regulation (incl. one-carbon),False,(ii) Metabolic regulation (incl. one-carbon),False
+EPHA4,1,58,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT);(iv) Neurodevelopment & synaptic function,True,(iv) Neurodevelopment & synaptic function,True
+NTRK1,1,62,(i) Growth factor & hormone signalling,(i) Growth factor & hormone signalling;(iv) Neurodevelopment & synaptic function,True,(iv) Neurodevelopment & synaptic function,True
+ROBO1,1,34,(i) Growth factor & hormone signalling,(i) Growth factor & hormone signalling;(iii) Immune & inflammatory (incl. JAK-STAT);(iv) Neurodevelopment & synaptic function,True,(iv) Neurodevelopment & synaptic function,True
+MARCHF3,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+MARCHF9,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+SEPTIN11,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+ABCC1,1,36,(ii) Metabolic regulation (incl. one-carbon),(ii) Metabolic regulation (incl. one-carbon);(iii) Immune & inflammatory (incl. JAK-STAT),True,(ii) Metabolic regulation (incl. one-carbon),False
+ABR,1,7,(iv) Neurodevelopment & synaptic function,(iv) Neurodevelopment & synaptic function,False,(iv) Neurodevelopment & synaptic function,False
+ACOT7,1,8,(ii) Metabolic regulation (incl. one-carbon),(ii) Metabolic regulation (incl. one-carbon),False,(ii) Metabolic regulation (incl. one-carbon),False
+ACOX3,1,4,(ii) Metabolic regulation (incl. one-carbon),(ii) Metabolic regulation (incl. one-carbon),False,(ii) Metabolic regulation (incl. one-carbon),False
+ACSF3,1,7,(ii) Metabolic regulation (incl. one-carbon),(ii) Metabolic regulation (incl. one-carbon),False,(ii) Metabolic regulation (incl. one-carbon),False
+ACSM3,3,5,(ii) Metabolic regulation (incl. one-carbon),(ii) Metabolic regulation (incl. one-carbon),False,(ii) Metabolic regulation (incl. one-carbon),False
+ACTB,1,40,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT);(iv) Neurodevelopment & synaptic function,True,(iii) Immune & inflammatory (incl. JAK-STAT),False
+ACVR2B,1,40,(i) Growth factor & hormone signalling,(i) Growth factor & hormone signalling;(iii) Immune & inflammatory (incl. JAK-STAT),True,(i) Growth factor & hormone signalling,False
+ADARB1,1,14,(v) Other / unclassified,,True,(iv) Neurodevelopment & synaptic function,True
+ADGRD1,1,8,(v) Other / unclassified,,True,(v) Other / unclassified,False
+ADGRG1,1,38,(i) Growth factor & hormone signalling,(i) Growth factor & hormone signalling;(iv) Neurodevelopment & synaptic function,True,(iv) Neurodevelopment & synaptic function,True
+ADGRL3,1,15,(iv) Neurodevelopment & synaptic function,(iv) Neurodevelopment & synaptic function,False,(iv) Neurodevelopment & synaptic function,False
+AHDC1,1,5,(v) Other / unclassified,,True,(v) Other / unclassified,False
+AKAP13,1,16,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+ALDH3A1,1,4,(ii) Metabolic regulation (incl. one-carbon),(ii) Metabolic regulation (incl. one-carbon),False,(ii) Metabolic regulation (incl. one-carbon),False
+AMPD2,2,14,(ii) Metabolic regulation (incl. one-carbon),(ii) Metabolic regulation (incl. one-carbon),False,(ii) Metabolic regulation (incl. one-carbon),False
+ANAPC16,1,10,(v) Other / unclassified,,True,(v) Other / unclassified,False
+ANK2,1,44,(iv) Neurodevelopment & synaptic function,(iv) Neurodevelopment & synaptic function,False,(iv) Neurodevelopment & synaptic function,False
+ANKH,1,8,(i) Growth factor & hormone signalling,(i) Growth factor & hormone signalling,False,(i) Growth factor & hormone signalling,False
+ANKRD11,1,6,(i) Growth factor & hormone signalling,(i) Growth factor & hormone signalling,False,(i) Growth factor & hormone signalling,False
+ANTXR2,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+ANXA4,1,7,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+APOL3,1,4,(ii) Metabolic regulation (incl. one-carbon),(ii) Metabolic regulation (incl. one-carbon);(iii) Immune & inflammatory (incl. JAK-STAT),True,(ii) Metabolic regulation (incl. one-carbon),False
+ARHGAP12,1,6,(v) Other / unclassified,,True,(v) Other / unclassified,False
+ARHGAP26,2,4,(v) Other / unclassified,,True,(v) Other / unclassified,False
+ARHGAP42,1,2,(v) Other / unclassified,,True,(v) Other / unclassified,False
+ARHGEF12,2,10,(v) Other / unclassified,,True,(v) Other / unclassified,False
+ARHGEF28,1,4,(v) Other / unclassified,,True,(v) Other / unclassified,False
+ARHGEF4,1,7,(v) Other / unclassified,,True,(v) Other / unclassified,False
+ARHGEF7,1,13,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+ARID1B,1,14,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+ARID3A,1,3,(v) Other / unclassified,,True,(v) Other / unclassified,False
+ARNT2,1,17,(ii) Metabolic regulation (incl. one-carbon),(ii) Metabolic regulation (incl. one-carbon);(iv) Neurodevelopment & synaptic function,True,(ii) Metabolic regulation (incl. one-carbon),False
+ARNTL2,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+ARPP21,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+ASB13,1,2,(v) Other / unclassified,,True,(v) Other / unclassified,False
+ASGR1,2,2,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+ASIC3,1,6,(v) Other / unclassified,,True,(v) Other / unclassified,False
+ASPSCR1,2,4,(ii) Metabolic regulation (incl. one-carbon),(ii) Metabolic regulation (incl. one-carbon),False,(ii) Metabolic regulation (incl. one-carbon),False
+ATF7IP,1,4,(ii) Metabolic regulation (incl. one-carbon),(ii) Metabolic regulation (incl. one-carbon),False,(ii) Metabolic regulation (incl. one-carbon),False
+ATG13,1,18,(v) Other / unclassified,,True,(ii) Metabolic regulation (incl. one-carbon),True
+ATP10D,1,5,(v) Other / unclassified,,True,(v) Other / unclassified,False
+ATP2B1,1,23,(i) Growth factor & hormone signalling,(i) Growth factor & hormone signalling;(iii) Immune & inflammatory (incl. JAK-STAT),True,(i) Growth factor & hormone signalling,False
+ATP4B,1,9,(v) Other / unclassified,,True,(v) Other / unclassified,False
+ATP6V1H,1,11,(iv) Neurodevelopment & synaptic function,(iv) Neurodevelopment & synaptic function,False,(iv) Neurodevelopment & synaptic function,False
+ATRIP,1,4,(v) Other / unclassified,,True,(v) Other / unclassified,False
+B3GNTL1,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+B4GALT1,1,9,(ii) Metabolic regulation (incl. one-carbon),(ii) Metabolic regulation (incl. one-carbon),False,(ii) Metabolic regulation (incl. one-carbon),False
+BANP,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+BATF3,1,12,(iv) Neurodevelopment & synaptic function,(iv) Neurodevelopment & synaptic function,False,(iv) Neurodevelopment & synaptic function,False
+BMP6,1,60,(i) Growth factor & hormone signalling,(i) Growth factor & hormone signalling;(iii) Immune & inflammatory (incl. JAK-STAT),True,(i) Growth factor & hormone signalling,False
+BOLA2,2,7,(v) Other / unclassified,,True,(v) Other / unclassified,False
+BRAF,1,16,(i) Growth factor & hormone signalling,(i) Growth factor & hormone signalling;(iv) Neurodevelopment & synaptic function,True,(i) Growth factor & hormone signalling,False
+BRF1,1,8,(v) Other / unclassified,,True,(v) Other / unclassified,False
+BTBD11,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+BTBD3,1,5,(iv) Neurodevelopment & synaptic function,(iv) Neurodevelopment & synaptic function,False,(iv) Neurodevelopment & synaptic function,False
+BTN3A2,1,4,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+BZRAP1,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+C10orf107,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+C11orf40,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+C11orf49,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+C11orf74,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+C15orf41,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+C1QTNF7,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+C1orf21,2,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+C21orf33,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+C2orf82,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+C3orf52,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+C3orf67,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+C4orf32,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+C7orf50,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+C7orf61,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+CACNA2D3,1,6,(i) Growth factor & hormone signalling,(i) Growth factor & hormone signalling;(iv) Neurodevelopment & synaptic function,True,(iv) Neurodevelopment & synaptic function,True
+CALCA,1,46,(i) Growth factor & hormone signalling,(i) Growth factor & hormone signalling;(iii) Immune & inflammatory (incl. JAK-STAT),True,(i) Growth factor & hormone signalling,False
+CAMK2D,1,29,(iv) Neurodevelopment & synaptic function,(iv) Neurodevelopment & synaptic function,False,(iv) Neurodevelopment & synaptic function,False
+CAPZB,1,3,(v) Other / unclassified,,True,(v) Other / unclassified,False
+CARD10,1,9,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+CASC10,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+CASZ1,2,5,(iv) Neurodevelopment & synaptic function,(iv) Neurodevelopment & synaptic function,False,(iv) Neurodevelopment & synaptic function,False
+CBFA2T3,1,12,(v) Other / unclassified,,True,(v) Other / unclassified,False
+CBWD2,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+CCDC155,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+CCDC42,1,3,(v) Other / unclassified,,True,(v) Other / unclassified,False
+CCDC57,1,9,(v) Other / unclassified,,True,(v) Other / unclassified,False
+CCDC6,1,1,(v) Other / unclassified,,True,(v) Other / unclassified,False
+CCDC64,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+CCDC88C,2,11,(v) Other / unclassified,,True,(iv) Neurodevelopment & synaptic function,True
+CCL16,1,10,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+CCL26,1,17,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+CCR7,1,69,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT);(iv) Neurodevelopment & synaptic function,True,(iii) Immune & inflammatory (incl. JAK-STAT),False
+CD248,1,1,(v) Other / unclassified,,True,(v) Other / unclassified,False
+CD48,1,5,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+CD7,4,5,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+CD82,2,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+CD84,1,9,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+CDC42BPB,1,11,(v) Other / unclassified,,True,(iv) Neurodevelopment & synaptic function,True
+CDC42EP1,1,7,(v) Other / unclassified,,True,(v) Other / unclassified,False
+CDCP1,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+CDH18,1,9,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+CDIP1,1,2,(v) Other / unclassified,,True,(v) Other / unclassified,False
+CELF2,1,6,(iv) Neurodevelopment & synaptic function,(iv) Neurodevelopment & synaptic function,False,(iv) Neurodevelopment & synaptic function,False
+CELF6,1,4,(iv) Neurodevelopment & synaptic function,(iv) Neurodevelopment & synaptic function,False,(iv) Neurodevelopment & synaptic function,False
+CELSR2,1,22,(iv) Neurodevelopment & synaptic function,(iv) Neurodevelopment & synaptic function,False,(iv) Neurodevelopment & synaptic function,False
+CENPT,1,8,(v) Other / unclassified,,True,(v) Other / unclassified,False
+CFI,1,5,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+CFLAR,1,48,(i) Growth factor & hormone signalling,(i) Growth factor & hormone signalling;(iii) Immune & inflammatory (incl. JAK-STAT);(iv) Neurodevelopment & synaptic function,True,(i) Growth factor & hormone signalling,False
+CHFR,1,7,(v) Other / unclassified,,True,(v) Other / unclassified,False
+CHID1,1,2,(ii) Metabolic regulation (incl. one-carbon),(ii) Metabolic regulation (incl. one-carbon);(iii) Immune & inflammatory (incl. JAK-STAT),True,(ii) Metabolic regulation (incl. one-carbon),False
+CHRNA6,1,21,(iv) Neurodevelopment & synaptic function,(iv) Neurodevelopment & synaptic function,False,(iv) Neurodevelopment & synaptic function,False
+CIITA,2,20,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+CLCN7,1,7,(v) Other / unclassified,,True,(v) Other / unclassified,False
+CLMP,1,2,(iv) Neurodevelopment & synaptic function,(iv) Neurodevelopment & synaptic function,False,(iv) Neurodevelopment & synaptic function,False
+CLN5,1,10,(iv) Neurodevelopment & synaptic function,(iv) Neurodevelopment & synaptic function,False,(iv) Neurodevelopment & synaptic function,False
+CLPB,1,5,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+CMPK2,1,5,(v) Other / unclassified,,True,(v) Other / unclassified,False
+COL12A1,1,4,(v) Other / unclassified,,True,(v) Other / unclassified,False
+COL14A1,1,4,(v) Other / unclassified,,True,(v) Other / unclassified,False
+COL16A1,1,7,(v) Other / unclassified,,True,(v) Other / unclassified,False
+COL18A1,1,11,(i) Growth factor & hormone signalling,(i) Growth factor & hormone signalling,False,(i) Growth factor & hormone signalling,False
+COL1A1,1,43,(i) Growth factor & hormone signalling,(i) Growth factor & hormone signalling;(iii) Immune & inflammatory (incl. JAK-STAT),True,(i) Growth factor & hormone signalling,False
+COL4A1,1,9,(iv) Neurodevelopment & synaptic function,(iv) Neurodevelopment & synaptic function,False,(iv) Neurodevelopment & synaptic function,False
+COL5A1,1,14,(i) Growth factor & hormone signalling,(i) Growth factor & hormone signalling,False,(i) Growth factor & hormone signalling,False
+COPS8,1,8,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+CPA6,1,2,(v) Other / unclassified,,True,(v) Other / unclassified,False
+CPO,1,2,(v) Other / unclassified,,True,(v) Other / unclassified,False
+CREB3L1,2,14,(i) Growth factor & hormone signalling,(i) Growth factor & hormone signalling,False,(i) Growth factor & hormone signalling,False
+CREB5,1,3,(v) Other / unclassified,,True,(v) Other / unclassified,False
+CRISP2,1,1,(v) Other / unclassified,,True,(v) Other / unclassified,False
+CRTC2,1,7,(ii) Metabolic regulation (incl. one-carbon),(ii) Metabolic regulation (incl. one-carbon),False,(ii) Metabolic regulation (incl. one-carbon),False
+CSGALNACT1,1,11,(ii) Metabolic regulation (incl. one-carbon),(ii) Metabolic regulation (incl. one-carbon),False,(ii) Metabolic regulation (incl. one-carbon),False
+CSNK1A1,1,20,(v) Other / unclassified,,True,(v) Other / unclassified,False
+CSNK1D,1,23,(iv) Neurodevelopment & synaptic function,(iv) Neurodevelopment & synaptic function,False,(iv) Neurodevelopment & synaptic function,False
+CTDSPL,1,1,(v) Other / unclassified,,True,(v) Other / unclassified,False
+CTTN,1,26,(iv) Neurodevelopment & synaptic function,(iv) Neurodevelopment & synaptic function,False,(iv) Neurodevelopment & synaptic function,False
+CYB561,1,7,(v) Other / unclassified,,True,(v) Other / unclassified,False
+CYP27C1,1,5,(ii) Metabolic regulation (incl. one-carbon),(ii) Metabolic regulation (incl. one-carbon),False,(ii) Metabolic regulation (incl. one-carbon),False
+CYSLTR2,1,4,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+DAB2IP,1,93,(i) Growth factor & hormone signalling,(i) Growth factor & hormone signalling;(iii) Immune & inflammatory (incl. JAK-STAT);(iv) Neurodevelopment & synaptic function,True,(i) Growth factor & hormone signalling,False
+DAZAP1,1,2,(v) Other / unclassified,,True,(v) Other / unclassified,False
+DHCR24,4,15,(i) Growth factor & hormone signalling,(i) Growth factor & hormone signalling;(ii) Metabolic regulation (incl. one-carbon),True,(i) Growth factor & hormone signalling,False
+DIP2B,1,3,(iv) Neurodevelopment & synaptic function,(iv) Neurodevelopment & synaptic function,False,(iv) Neurodevelopment & synaptic function,False
+DLEU7-AS1,2,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+DLL4,1,50,(i) Growth factor & hormone signalling,(i) Growth factor & hormone signalling;(iii) Immune & inflammatory (incl. JAK-STAT);(iv) Neurodevelopment & synaptic function,True,(i) Growth factor & hormone signalling,False
+DMAP1,1,15,(v) Other / unclassified,,True,(v) Other / unclassified,False
+DNAJB6,1,8,(v) Other / unclassified,,True,(v) Other / unclassified,False
+DNASE1L3,1,11,(ii) Metabolic regulation (incl. one-carbon),(ii) Metabolic regulation (incl. one-carbon);(iii) Immune & inflammatory (incl. JAK-STAT),True,(ii) Metabolic regulation (incl. one-carbon),False
+DNTT,1,4,(ii) Metabolic regulation (incl. one-carbon),(ii) Metabolic regulation (incl. one-carbon),False,(ii) Metabolic regulation (incl. one-carbon),False
+DOCK10,2,13,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT);(iv) Neurodevelopment & synaptic function,True,(iii) Immune & inflammatory (incl. JAK-STAT),False
+DOCK6,1,2,(v) Other / unclassified,,True,(v) Other / unclassified,False
+DOCK9,1,3,(v) Other / unclassified,,True,(v) Other / unclassified,False
+DOK4,1,1,(v) Other / unclassified,,True,(v) Other / unclassified,False
+DPF1,1,12,(iv) Neurodevelopment & synaptic function,(iv) Neurodevelopment & synaptic function,False,(iv) Neurodevelopment & synaptic function,False
+DRAIC,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+DRAXIN,1,18,(iv) Neurodevelopment & synaptic function,(iv) Neurodevelopment & synaptic function,False,(iv) Neurodevelopment & synaptic function,False
+DST,1,14,(iv) Neurodevelopment & synaptic function,(iv) Neurodevelopment & synaptic function,False,(iv) Neurodevelopment & synaptic function,False
+DUSP10,1,21,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+DUSP2,1,4,(v) Other / unclassified,,True,(v) Other / unclassified,False
+DUSP4,1,5,(v) Other / unclassified,,True,(v) Other / unclassified,False
+DUSP7,1,8,(v) Other / unclassified,,True,(v) Other / unclassified,False
+DYNC1H1,1,19,(iv) Neurodevelopment & synaptic function,(iv) Neurodevelopment & synaptic function,False,(iv) Neurodevelopment & synaptic function,False
+DYRK1A,1,18,(iv) Neurodevelopment & synaptic function,(iv) Neurodevelopment & synaptic function,False,(iv) Neurodevelopment & synaptic function,False
+DZIP1,1,11,(v) Other / unclassified,,True,(v) Other / unclassified,False
+ECI2,1,4,(ii) Metabolic regulation (incl. one-carbon),(ii) Metabolic regulation (incl. one-carbon),False,(ii) Metabolic regulation (incl. one-carbon),False
+EDN1,1,133,(i) Growth factor & hormone signalling,(i) Growth factor & hormone signalling;(ii) Metabolic regulation (incl. one-carbon);(iii) Immune & inflammatory (incl. JAK-STAT);(iv) Neurodevelopment & synaptic function,True,(i) Growth factor & hormone signalling,False
+EEF1DP3,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+EFNA3,1,8,(iv) Neurodevelopment & synaptic function,(iv) Neurodevelopment & synaptic function,False,(iv) Neurodevelopment & synaptic function,False
+EGFL7,1,5,(v) Other / unclassified,,True,(v) Other / unclassified,False
+EGR1,1,46,(i) Growth factor & hormone signalling,(i) Growth factor & hormone signalling;(ii) Metabolic regulation (incl. one-carbon);(iii) Immune & inflammatory (incl. JAK-STAT);(iv) Neurodevelopment & synaptic function,True,(i) Growth factor & hormone signalling,False
+EHF,1,6,(v) Other / unclassified,,True,(v) Other / unclassified,False
+EIF2B2,1,16,(i) Growth factor & hormone signalling,(i) Growth factor & hormone signalling;(iii) Immune & inflammatory (incl. JAK-STAT);(iv) Neurodevelopment & synaptic function,True,(i) Growth factor & hormone signalling,False
+EMILIN1,1,39,(i) Growth factor & hormone signalling,(i) Growth factor & hormone signalling,False,(i) Growth factor & hormone signalling,False
+EML1,1,10,(iv) Neurodevelopment & synaptic function,(iv) Neurodevelopment & synaptic function,False,(iv) Neurodevelopment & synaptic function,False
+EMP1,1,3,(v) Other / unclassified,,True,(v) Other / unclassified,False
+ENC1,1,8,(iv) Neurodevelopment & synaptic function,(iv) Neurodevelopment & synaptic function,False,(iv) Neurodevelopment & synaptic function,False
+ENG,1,72,(i) Growth factor & hormone signalling,(i) Growth factor & hormone signalling;(iii) Immune & inflammatory (incl. JAK-STAT);(iv) Neurodevelopment & synaptic function,True,(i) Growth factor & hormone signalling,False
+ENPEP,1,13,(v) Other / unclassified,,True,(v) Other / unclassified,False
+ENPP3,1,19,(ii) Metabolic regulation (incl. one-carbon),(ii) Metabolic regulation (incl. one-carbon);(iii) Immune & inflammatory (incl. JAK-STAT),True,(ii) Metabolic regulation (incl. one-carbon),False
+EP400,2,7,(iv) Neurodevelopment & synaptic function,(iv) Neurodevelopment & synaptic function,False,(iv) Neurodevelopment & synaptic function,False
+EPSTI1,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+ERCC6,2,33,(iv) Neurodevelopment & synaptic function,(iv) Neurodevelopment & synaptic function,False,(iv) Neurodevelopment & synaptic function,False
+ERGIC1,1,3,(v) Other / unclassified,,True,(v) Other / unclassified,False
+ESAM,1,8,(v) Other / unclassified,,True,(v) Other / unclassified,False
+EVI5,1,4,(v) Other / unclassified,,True,(v) Other / unclassified,False
+EXOC2,1,10,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+FAM102B,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+FAM166B,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+FAM174B,1,1,(v) Other / unclassified,,True,(v) Other / unclassified,False
+FAM213B,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+FAM227B,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+FAM47E,1,3,(v) Other / unclassified,,True,(v) Other / unclassified,False
+FAM83H,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+FAM91A1,1,4,(v) Other / unclassified,,True,(v) Other / unclassified,False
+FAT2,1,8,(v) Other / unclassified,,True,(v) Other / unclassified,False
+FBLN1,1,15,(i) Growth factor & hormone signalling,(i) Growth factor & hormone signalling;(iii) Immune & inflammatory (incl. JAK-STAT),True,(i) Growth factor & hormone signalling,False
+FBP1,1,24,(i) Growth factor & hormone signalling,(i) Growth factor & hormone signalling;(ii) Metabolic regulation (incl. one-carbon),True,(i) Growth factor & hormone signalling,False
+FBRSL1,3,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+FBXL13,1,5,(v) Other / unclassified,,True,(v) Other / unclassified,False
+FBXL18,1,3,(v) Other / unclassified,,True,(v) Other / unclassified,False
+FCHO1,1,8,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+FGD5,1,6,(v) Other / unclassified,,True,(v) Other / unclassified,False
+FITM1,1,12,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+FLAD1,1,4,(ii) Metabolic regulation (incl. one-carbon),(ii) Metabolic regulation (incl. one-carbon),False,(ii) Metabolic regulation (incl. one-carbon),False
+FLT4,1,40,(i) Growth factor & hormone signalling,(i) Growth factor & hormone signalling,False,(i) Growth factor & hormone signalling,False
+FOS,1,54,(i) Growth factor & hormone signalling,(i) Growth factor & hormone signalling;(iii) Immune & inflammatory (incl. JAK-STAT);(iv) Neurodevelopment & synaptic function,True,(i) Growth factor & hormone signalling,False
+FOXC1,1,55,(i) Growth factor & hormone signalling,(i) Growth factor & hormone signalling;(iii) Immune & inflammatory (incl. JAK-STAT),True,(i) Growth factor & hormone signalling,False
+FOXH1,1,30,(i) Growth factor & hormone signalling,(i) Growth factor & hormone signalling;(iii) Immune & inflammatory (incl. JAK-STAT),True,(i) Growth factor & hormone signalling,False
+FOXK1,1,12,(ii) Metabolic regulation (incl. one-carbon),(ii) Metabolic regulation (incl. one-carbon),False,(ii) Metabolic regulation (incl. one-carbon),False
+FOXO3,1,46,(i) Growth factor & hormone signalling,(i) Growth factor & hormone signalling;(ii) Metabolic regulation (incl. one-carbon);(iii) Immune & inflammatory (incl. JAK-STAT);(iv) Neurodevelopment & synaptic function,True,(i) Growth factor & hormone signalling,False
+FRY,1,4,(iv) Neurodevelopment & synaptic function,(iv) Neurodevelopment & synaptic function,False,(iv) Neurodevelopment & synaptic function,False
+FTO,3,17,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+GAL,1,20,(i) Growth factor & hormone signalling,(i) Growth factor & hormone signalling;(ii) Metabolic regulation (incl. one-carbon),True,(i) Growth factor & hormone signalling,False
+GALNT18,1,3,(v) Other / unclassified,,True,(v) Other / unclassified,False
+GALNT2,1,7,(v) Other / unclassified,,True,(v) Other / unclassified,False
+GALNTL6,1,3,(v) Other / unclassified,,True,(v) Other / unclassified,False
+GAS7,1,3,(iv) Neurodevelopment & synaptic function,(iv) Neurodevelopment & synaptic function,False,(iv) Neurodevelopment & synaptic function,False
+GFI1,2,9,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT);(iv) Neurodevelopment & synaptic function,True,(iii) Immune & inflammatory (incl. JAK-STAT),False
+GINS4,1,4,(v) Other / unclassified,,True,(v) Other / unclassified,False
+GLB1,1,12,(ii) Metabolic regulation (incl. one-carbon),(ii) Metabolic regulation (incl. one-carbon),False,(ii) Metabolic regulation (incl. one-carbon),False
+GLI2,8,42,(i) Growth factor & hormone signalling,(i) Growth factor & hormone signalling;(iii) Immune & inflammatory (incl. JAK-STAT);(iv) Neurodevelopment & synaptic function,True,(i) Growth factor & hormone signalling,False
+GLS,2,14,(ii) Metabolic regulation (incl. one-carbon),(ii) Metabolic regulation (incl. one-carbon),False,(ii) Metabolic regulation (incl. one-carbon),False
+GLTSCR1,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+GMFG,1,4,(v) Other / unclassified,,True,(v) Other / unclassified,False
+GNG7,3,3,(v) Other / unclassified,,True,(v) Other / unclassified,False
+GOLGA3,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+GPBP1,1,3,(v) Other / unclassified,,True,(v) Other / unclassified,False
+GPR62,1,5,(v) Other / unclassified,,True,(v) Other / unclassified,False
+GPR68,1,9,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+GPRC5A,1,3,(i) Growth factor & hormone signalling,(i) Growth factor & hormone signalling,False,(i) Growth factor & hormone signalling,False
+GRASP,2,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+GRIP1,1,3,(iv) Neurodevelopment & synaptic function,(iv) Neurodevelopment & synaptic function,False,(iv) Neurodevelopment & synaptic function,False
+GRK6,1,7,(v) Other / unclassified,,True,(v) Other / unclassified,False
+GRM8,1,7,(iv) Neurodevelopment & synaptic function,(iv) Neurodevelopment & synaptic function,False,(iv) Neurodevelopment & synaptic function,False
+GUCY1B2,5,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+GZMB,1,14,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+HAAO,3,14,(ii) Metabolic regulation (incl. one-carbon),(ii) Metabolic regulation (incl. one-carbon);(iv) Neurodevelopment & synaptic function,True,(ii) Metabolic regulation (incl. one-carbon),False
+HDAC1,1,57,(i) Growth factor & hormone signalling,(i) Growth factor & hormone signalling;(ii) Metabolic regulation (incl. one-carbon),True,(i) Growth factor & hormone signalling,False
+HDAC9,2,17,(i) Growth factor & hormone signalling,(i) Growth factor & hormone signalling;(ii) Metabolic regulation (incl. one-carbon);(iii) Immune & inflammatory (incl. JAK-STAT),True,(i) Growth factor & hormone signalling,False
+HEXIM2,1,5,(v) Other / unclassified,,True,(v) Other / unclassified,False
+HIC1,1,10,(v) Other / unclassified,,True,(v) Other / unclassified,False
+HIST1H3I,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+HMHA1,2,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+HNRNPA1,1,11,(v) Other / unclassified,,True,(v) Other / unclassified,False
+HOXA3,4,5,(i) Growth factor & hormone signalling,(i) Growth factor & hormone signalling,False,(i) Growth factor & hormone signalling,False
+HOXB-AS3,1,3,(v) Other / unclassified,,True,(v) Other / unclassified,False
+HOXC4,3,5,(i) Growth factor & hormone signalling,(i) Growth factor & hormone signalling,False,(i) Growth factor & hormone signalling,False
+HRASLS2,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+HSPG2,1,14,(ii) Metabolic regulation (incl. one-carbon),(ii) Metabolic regulation (incl. one-carbon);(iii) Immune & inflammatory (incl. JAK-STAT);(iv) Neurodevelopment & synaptic function,True,(ii) Metabolic regulation (incl. one-carbon),False
+HTT,1,24,(iv) Neurodevelopment & synaptic function,(iv) Neurodevelopment & synaptic function,False,(iv) Neurodevelopment & synaptic function,False
+IBTK,1,3,(v) Other / unclassified,,True,(v) Other / unclassified,False
+IFFO1,1,3,(v) Other / unclassified,,True,(v) Other / unclassified,False
+IFT172,1,8,(v) Other / unclassified,,True,(v) Other / unclassified,False
+IGSF9,1,5,(iv) Neurodevelopment & synaptic function,(iv) Neurodevelopment & synaptic function,False,(iv) Neurodevelopment & synaptic function,False
+IKBKB,1,42,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT);(iv) Neurodevelopment & synaptic function,True,(iii) Immune & inflammatory (incl. JAK-STAT),False
+IKZF4,1,4,(v) Other / unclassified,,True,(v) Other / unclassified,False
+IL21R,2,5,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+IL36A,1,8,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+IL37,1,15,(i) Growth factor & hormone signalling,(i) Growth factor & hormone signalling;(iii) Immune & inflammatory (incl. JAK-STAT),True,(i) Growth factor & hormone signalling,False
+IL5RA,1,8,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+ILVBL,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+INHBA,1,63,(i) Growth factor & hormone signalling,(i) Growth factor & hormone signalling;(ii) Metabolic regulation (incl. one-carbon);(iii) Immune & inflammatory (incl. JAK-STAT);(iv) Neurodevelopment & synaptic function,True,(i) Growth factor & hormone signalling,False
+INHBA-AS1,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+INPP5D,1,12,(ii) Metabolic regulation (incl. one-carbon),(ii) Metabolic regulation (incl. one-carbon);(iii) Immune & inflammatory (incl. JAK-STAT),True,(ii) Metabolic regulation (incl. one-carbon),False
+IPO13,1,4,(v) Other / unclassified,,True,(v) Other / unclassified,False
+IRF2BPL,1,6,(iv) Neurodevelopment & synaptic function,(iv) Neurodevelopment & synaptic function,False,(iv) Neurodevelopment & synaptic function,False
+IRF8,1,22,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT);(iv) Neurodevelopment & synaptic function,True,(iii) Immune & inflammatory (incl. JAK-STAT),False
+IRX3,1,22,(iv) Neurodevelopment & synaptic function,(iv) Neurodevelopment & synaptic function,False,(iv) Neurodevelopment & synaptic function,False
+ITGA9,2,10,(v) Other / unclassified,,True,(v) Other / unclassified,False
+ITGB2,1,53,(ii) Metabolic regulation (incl. one-carbon),(ii) Metabolic regulation (incl. one-carbon);(iii) Immune & inflammatory (incl. JAK-STAT);(iv) Neurodevelopment & synaptic function,True,(ii) Metabolic regulation (incl. one-carbon),False
+ITPRIP,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+JADE1,1,15,(v) Other / unclassified,,True,(v) Other / unclassified,False
+JAZF1-AS1,2,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+KAZN,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+KCMF1,1,9,(iv) Neurodevelopment & synaptic function,(iv) Neurodevelopment & synaptic function,False,(iv) Neurodevelopment & synaptic function,False
+KCNC4,1,8,(iv) Neurodevelopment & synaptic function,(iv) Neurodevelopment & synaptic function,False,(iv) Neurodevelopment & synaptic function,False
+KCNJ1,1,8,(v) Other / unclassified,,True,(v) Other / unclassified,False
+KCNJ5,1,9,(v) Other / unclassified,,True,(v) Other / unclassified,False
+KCNK15,1,3,(v) Other / unclassified,,True,(v) Other / unclassified,False
+KCNQ1DN,1,1,(v) Other / unclassified,,True,(v) Other / unclassified,False
+KCNU1,1,7,(v) Other / unclassified,,True,(v) Other / unclassified,False
+KCTD10,1,9,(v) Other / unclassified,,True,(v) Other / unclassified,False
+KDM2B,2,31,(iv) Neurodevelopment & synaptic function,(iv) Neurodevelopment & synaptic function,False,(iv) Neurodevelopment & synaptic function,False
+KDM4B,1,3,(iv) Neurodevelopment & synaptic function,(iv) Neurodevelopment & synaptic function,False,(iv) Neurodevelopment & synaptic function,False
+KDM4C,1,6,(i) Growth factor & hormone signalling,(i) Growth factor & hormone signalling,False,(i) Growth factor & hormone signalling,False
+KIAA0232,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+KIAA1549,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+KIAA1551,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+KLF13,1,5,(v) Other / unclassified,,True,(v) Other / unclassified,False
+KLF6,1,4,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+KLHDC4,4,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+KLHL31,1,4,(v) Other / unclassified,,True,(v) Other / unclassified,False
+KRT36,1,4,(v) Other / unclassified,,True,(v) Other / unclassified,False
+LAMB3,1,4,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+LAX1,3,12,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+LDB2,1,5,(iv) Neurodevelopment & synaptic function,(iv) Neurodevelopment & synaptic function,False,(iv) Neurodevelopment & synaptic function,False
+LENG8,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+LGALS1,1,10,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT);(iv) Neurodevelopment & synaptic function,True,(iii) Immune & inflammatory (incl. JAK-STAT),False
+LGALSL,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+LILRA2,1,18,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+LIMD1,1,22,(v) Other / unclassified,,True,(v) Other / unclassified,False
+LIMD2,1,1,(v) Other / unclassified,,True,(v) Other / unclassified,False
+LINC-PINT,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+LINC00229,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+LINC00319,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+LINC00327,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+LINC00473,1,1,(v) Other / unclassified,,True,(v) Other / unclassified,False
+LINC00536,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+LINC00880,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+LINC00895,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+LINC00911,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+LINC00936,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+LINC00982,3,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+LINC00996,2,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+LINC01114,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+LINC01270,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+LINC01300,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+LLGL2,1,8,(v) Other / unclassified,,True,(v) Other / unclassified,False
+LMNA,2,24,(v) Other / unclassified,,True,(v) Other / unclassified,False
+LMO7,1,5,(v) Other / unclassified,,True,(v) Other / unclassified,False
+LOC100507351,2,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+LOC150935,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+LOC285847,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+LOC400958,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+LOC643339,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+LOC728084,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+LOC728175,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+LOC728989,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+LOC730102,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+LOXL1-AS1,8,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+LOXL3,1,23,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+LPAR2,1,6,(v) Other / unclassified,,True,(v) Other / unclassified,False
+LPCAT2,1,8,(ii) Metabolic regulation (incl. one-carbon),(ii) Metabolic regulation (incl. one-carbon),False,(ii) Metabolic regulation (incl. one-carbon),False
+LRCH4,1,5,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT);(iv) Neurodevelopment & synaptic function,True,(iii) Immune & inflammatory (incl. JAK-STAT),False
+LRP5,1,36,(i) Growth factor & hormone signalling,(i) Growth factor & hormone signalling;(ii) Metabolic regulation (incl. one-carbon);(iii) Immune & inflammatory (incl. JAK-STAT);(iv) Neurodevelopment & synaptic function,True,(i) Growth factor & hormone signalling,False
+LRP8,1,18,(ii) Metabolic regulation (incl. one-carbon),(ii) Metabolic regulation (incl. one-carbon);(iii) Immune & inflammatory (incl. JAK-STAT);(iv) Neurodevelopment & synaptic function,True,(ii) Metabolic regulation (incl. one-carbon),False
+LRRC32,1,7,(i) Growth factor & hormone signalling,(i) Growth factor & hormone signalling,False,(i) Growth factor & hormone signalling,False
+LRRFIP2,1,1,(v) Other / unclassified,,True,(v) Other / unclassified,False
+LSP1,2,2,(v) Other / unclassified,,True,(v) Other / unclassified,False
+LTB4R,1,8,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+MACROD1,1,8,(ii) Metabolic regulation (incl. one-carbon),(ii) Metabolic regulation (incl. one-carbon),False,(ii) Metabolic regulation (incl. one-carbon),False
+MAD1L1,2,11,(v) Other / unclassified,,True,(v) Other / unclassified,False
+MAEA,3,6,(v) Other / unclassified,,True,(v) Other / unclassified,False
+MAF,1,9,(v) Other / unclassified,,True,(v) Other / unclassified,False
+MAML2,2,6,(v) Other / unclassified,,True,(v) Other / unclassified,False
+MAML3,2,6,(v) Other / unclassified,,True,(v) Other / unclassified,False
+MAP10,1,8,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+MAP1LC3B2,2,7,(v) Other / unclassified,,True,(v) Other / unclassified,False
+MAP3K7CL,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+MAP3K9,1,5,(v) Other / unclassified,,True,(v) Other / unclassified,False
+MAP4K2,2,8,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+MARK2,1,20,(iv) Neurodevelopment & synaptic function,(iv) Neurodevelopment & synaptic function,False,(iv) Neurodevelopment & synaptic function,False
+MAST4,1,3,(v) Other / unclassified,,True,(v) Other / unclassified,False
+MAX,1,10,(v) Other / unclassified,,True,(v) Other / unclassified,False
+MBD5,1,6,(i) Growth factor & hormone signalling,(i) Growth factor & hormone signalling;(iv) Neurodevelopment & synaptic function,True,(iv) Neurodevelopment & synaptic function,True
+MCF2L,4,4,(v) Other / unclassified,,True,(v) Other / unclassified,False
+MCPH1,1,4,(iv) Neurodevelopment & synaptic function,(iv) Neurodevelopment & synaptic function,False,(iv) Neurodevelopment & synaptic function,False
+MED24,1,6,(v) Other / unclassified,,True,(v) Other / unclassified,False
+MEGF6,4,1,(v) Other / unclassified,,True,(v) Other / unclassified,False
+METRNL,1,17,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+METTL21C,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+MFHAS1,1,23,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+MFSD10,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+MGP,1,4,(v) Other / unclassified,,True,(v) Other / unclassified,False
+MGRN1,2,10,(v) Other / unclassified,,True,(v) Other / unclassified,False
+MIB2,1,4,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+MIIP,1,2,(v) Other / unclassified,,True,(v) Other / unclassified,False
+MIR1247,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+MIR129-1,1,8,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+MIR4686,1,1,(v) Other / unclassified,,True,(v) Other / unclassified,False
+MIR4708,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+MIR548F5,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+MIR548H2,1,1,(v) Other / unclassified,,True,(v) Other / unclassified,False
+MIR548O2,2,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+MIR5702,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+MIR583,1,1,(v) Other / unclassified,,True,(v) Other / unclassified,False
+MIRLET7BHG,2,1,(v) Other / unclassified,,True,(v) Other / unclassified,False
+MKL1,3,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+MLLT3,1,9,(v) Other / unclassified,,True,(v) Other / unclassified,False
+MLST8,1,19,(v) Other / unclassified,,True,(i) Growth factor & hormone signalling,True
+MMP14,1,44,(i) Growth factor & hormone signalling,(i) Growth factor & hormone signalling;(iii) Immune & inflammatory (incl. JAK-STAT),True,(i) Growth factor & hormone signalling,False
+MMP15,1,9,(v) Other / unclassified,,True,(v) Other / unclassified,False
+MOB2,1,1,(v) Other / unclassified,,True,(v) Other / unclassified,False
+MOGS,1,6,(ii) Metabolic regulation (incl. one-carbon),(ii) Metabolic regulation (incl. one-carbon),False,(ii) Metabolic regulation (incl. one-carbon),False
+MPEG1,1,11,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT);(iv) Neurodevelopment & synaptic function,True,(iii) Immune & inflammatory (incl. JAK-STAT),False
+MPHOSPH9,2,1,(v) Other / unclassified,,True,(v) Other / unclassified,False
+MPP4,1,1,(iv) Neurodevelopment & synaptic function,(iv) Neurodevelopment & synaptic function,False,(iv) Neurodevelopment & synaptic function,False
+MRPL23-AS1,4,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+MRPL44,1,4,(v) Other / unclassified,,True,(v) Other / unclassified,False
+MRVI1,3,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+MSMO1,1,9,(ii) Metabolic regulation (incl. one-carbon),(ii) Metabolic regulation (incl. one-carbon),False,(ii) Metabolic regulation (incl. one-carbon),False
+MYB,1,31,(i) Growth factor & hormone signalling,(i) Growth factor & hormone signalling;(iv) Neurodevelopment & synaptic function,True,(i) Growth factor & hormone signalling,False
+MYBBP1A,1,14,(v) Other / unclassified,,True,(v) Other / unclassified,False
+MYEOV,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+MYH10,1,10,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT);(iv) Neurodevelopment & synaptic function,True,(iii) Immune & inflammatory (incl. JAK-STAT),False
+MYL4,1,5,(v) Other / unclassified,,True,(v) Other / unclassified,False
+MYLK,1,12,(iv) Neurodevelopment & synaptic function,(iv) Neurodevelopment & synaptic function,False,(iv) Neurodevelopment & synaptic function,False
+MYLK4,1,1,(v) Other / unclassified,,True,(v) Other / unclassified,False
+MYO15B,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+MYO16,1,6,(iv) Neurodevelopment & synaptic function,(iv) Neurodevelopment & synaptic function,False,(iv) Neurodevelopment & synaptic function,False
+MYOM1,1,4,(v) Other / unclassified,,True,(v) Other / unclassified,False
+N4BP1,1,13,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+N4BP2L1,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+NADK,1,6,(ii) Metabolic regulation (incl. one-carbon),(ii) Metabolic regulation (incl. one-carbon),False,(ii) Metabolic regulation (incl. one-carbon),False
+NAV1,2,4,(iv) Neurodevelopment & synaptic function,(iv) Neurodevelopment & synaptic function,False,(iv) Neurodevelopment & synaptic function,False
+NBEAL2,1,3,(v) Other / unclassified,,True,(v) Other / unclassified,False
+NDRG1,1,6,(iv) Neurodevelopment & synaptic function,(iv) Neurodevelopment & synaptic function,False,(iv) Neurodevelopment & synaptic function,False
+NDRG2,1,2,(v) Other / unclassified,,True,(v) Other / unclassified,False
+NDUFC2-KCTD14,1,1,(v) Other / unclassified,,True,(v) Other / unclassified,False
+NELFB,2,12,(v) Other / unclassified,,True,(v) Other / unclassified,False
+NFIA,2,10,(v) Other / unclassified,,True,(v) Other / unclassified,False
+NFIC,1,8,(v) Other / unclassified,,True,(v) Other / unclassified,False
+NFIX,1,6,(v) Other / unclassified,,True,(v) Other / unclassified,False
+NFKBIE,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+NHSL1,4,1,(v) Other / unclassified,,True,(v) Other / unclassified,False
+NIFK,1,3,(ii) Metabolic regulation (incl. one-carbon),(ii) Metabolic regulation (incl. one-carbon),False,(ii) Metabolic regulation (incl. one-carbon),False
+NIN,1,7,(v) Other / unclassified,,True,(v) Other / unclassified,False
+NKD2,1,10,(v) Other / unclassified,,True,(v) Other / unclassified,False
+NOS3,1,54,(i) Growth factor & hormone signalling,(i) Growth factor & hormone signalling;(ii) Metabolic regulation (incl. one-carbon),True,(i) Growth factor & hormone signalling,False
+NOTCH2,1,51,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT);(iv) Neurodevelopment & synaptic function,True,(iii) Immune & inflammatory (incl. JAK-STAT),False
+NRCAM,1,16,(iv) Neurodevelopment & synaptic function,(iv) Neurodevelopment & synaptic function,False,(iv) Neurodevelopment & synaptic function,False
+NT5C2,1,14,(ii) Metabolic regulation (incl. one-carbon),(ii) Metabolic regulation (incl. one-carbon),False,(ii) Metabolic regulation (incl. one-carbon),False
+NTHL1,1,9,(v) Other / unclassified,,True,(v) Other / unclassified,False
+NTN3,1,3,(iv) Neurodevelopment & synaptic function,(iv) Neurodevelopment & synaptic function,False,(iv) Neurodevelopment & synaptic function,False
+NTPCR,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+NUDT14,1,3,(ii) Metabolic regulation (incl. one-carbon),(ii) Metabolic regulation (incl. one-carbon),False,(ii) Metabolic regulation (incl. one-carbon),False
+OPA1,1,35,(ii) Metabolic regulation (incl. one-carbon),(ii) Metabolic regulation (incl. one-carbon);(iii) Immune & inflammatory (incl. JAK-STAT);(iv) Neurodevelopment & synaptic function,True,(ii) Metabolic regulation (incl. one-carbon),False
+OR4E2,1,2,(v) Other / unclassified,,True,(v) Other / unclassified,False
+OR51E2,1,16,(i) Growth factor & hormone signalling,(i) Growth factor & hormone signalling;(ii) Metabolic regulation (incl. one-carbon),True,(i) Growth factor & hormone signalling,False
+ORMDL3,1,9,(ii) Metabolic regulation (incl. one-carbon),(ii) Metabolic regulation (incl. one-carbon);(iii) Immune & inflammatory (incl. JAK-STAT),True,(ii) Metabolic regulation (incl. one-carbon),False
+OSBPL10,1,6,(v) Other / unclassified,,True,(v) Other / unclassified,False
+OSBPL5,1,8,(ii) Metabolic regulation (incl. one-carbon),(ii) Metabolic regulation (incl. one-carbon),False,(ii) Metabolic regulation (incl. one-carbon),False
+OSBPL6,2,6,(ii) Metabolic regulation (incl. one-carbon),(ii) Metabolic regulation (incl. one-carbon),False,(ii) Metabolic regulation (incl. one-carbon),False
+OXLD1,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+P4HA2,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+PABPC4,1,4,(v) Other / unclassified,,True,(v) Other / unclassified,False
+PACS2,2,6,(v) Other / unclassified,,True,(v) Other / unclassified,False
+PALD1,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+PALLD,1,6,(iv) Neurodevelopment & synaptic function,(iv) Neurodevelopment & synaptic function,False,(iv) Neurodevelopment & synaptic function,False
+PALM2-AKAP2,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+PANX2,1,6,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+PARP15,1,4,(v) Other / unclassified,,True,(v) Other / unclassified,False
+PARVG,1,7,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+PATZ1,2,7,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+PAX8,1,60,(i) Growth factor & hormone signalling,(i) Growth factor & hormone signalling;(iii) Immune & inflammatory (incl. JAK-STAT);(iv) Neurodevelopment & synaptic function,True,(i) Growth factor & hormone signalling,False
+PBLD,1,11,(i) Growth factor & hormone signalling,(i) Growth factor & hormone signalling;(iii) Immune & inflammatory (incl. JAK-STAT),True,(i) Growth factor & hormone signalling,False
+PBX1,1,10,(iv) Neurodevelopment & synaptic function,(iv) Neurodevelopment & synaptic function,False,(iv) Neurodevelopment & synaptic function,False
+PCAT4,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+PCSK5,1,28,(i) Growth factor & hormone signalling,(i) Growth factor & hormone signalling;(ii) Metabolic regulation (incl. one-carbon);(iii) Immune & inflammatory (incl. JAK-STAT),True,(i) Growth factor & hormone signalling,False
+PDE4B,1,16,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+PDE4D,2,21,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+PDLIM5,1,7,(iv) Neurodevelopment & synaptic function,(iv) Neurodevelopment & synaptic function,False,(iv) Neurodevelopment & synaptic function,False
+PHACTR2,1,1,(v) Other / unclassified,,True,(v) Other / unclassified,False
+PIF1,1,7,(v) Other / unclassified,,True,(v) Other / unclassified,False
+PIK3C2B,1,5,(v) Other / unclassified,,True,(v) Other / unclassified,False
+PIK3IP1,1,2,(v) Other / unclassified,,True,(v) Other / unclassified,False
+PILRA,1,1,(v) Other / unclassified,,True,(v) Other / unclassified,False
+PITRM1,1,5,(v) Other / unclassified,,True,(v) Other / unclassified,False
+PLCL2,2,11,(ii) Metabolic regulation (incl. one-carbon),(ii) Metabolic regulation (incl. one-carbon);(iv) Neurodevelopment & synaptic function,True,(ii) Metabolic regulation (incl. one-carbon),False
+PLEC,1,40,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT);(iv) Neurodevelopment & synaptic function,True,(iii) Immune & inflammatory (incl. JAK-STAT),False
+PLEKHG3,3,4,(v) Other / unclassified,,True,(v) Other / unclassified,False
+PLEKHG6,1,1,(v) Other / unclassified,,True,(v) Other / unclassified,False
+PLEKHM1P,2,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+PLLP,1,6,(iv) Neurodevelopment & synaptic function,(iv) Neurodevelopment & synaptic function,False,(iv) Neurodevelopment & synaptic function,False
+PMF1-BGLAP,2,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+POLE,1,16,(v) Other / unclassified,,True,(v) Other / unclassified,False
+POLR1E,1,9,(v) Other / unclassified,,True,(v) Other / unclassified,False
+POU2F1,1,8,(v) Other / unclassified,,True,(v) Other / unclassified,False
+PPBP,1,10,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+PPM1H,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+PPY2P,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+PRDM1,1,13,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+PRDM16,4,25,(i) Growth factor & hormone signalling,(i) Growth factor & hormone signalling;(ii) Metabolic regulation (incl. one-carbon);(iii) Immune & inflammatory (incl. JAK-STAT),True,(i) Growth factor & hormone signalling,False
+PRDM2,1,5,(v) Other / unclassified,,True,(v) Other / unclassified,False
+PRF1,1,28,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT);(iv) Neurodevelopment & synaptic function,True,(iii) Immune & inflammatory (incl. JAK-STAT),False
+PRIM2,1,7,(v) Other / unclassified,,True,(v) Other / unclassified,False
+PRKCE,1,25,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+PRKCQ,1,28,(i) Growth factor & hormone signalling,(i) Growth factor & hormone signalling;(ii) Metabolic regulation (incl. one-carbon);(iii) Immune & inflammatory (incl. JAK-STAT);(iv) Neurodevelopment & synaptic function,True,(i) Growth factor & hormone signalling,False
+PRKD2,1,38,(i) Growth factor & hormone signalling,(i) Growth factor & hormone signalling;(iii) Immune & inflammatory (incl. JAK-STAT),True,(i) Growth factor & hormone signalling,False
+PRKRIR,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+PROKR1,1,5,(i) Growth factor & hormone signalling,(i) Growth factor & hormone signalling,False,(i) Growth factor & hormone signalling,False
+PRPH2,1,5,(v) Other / unclassified,,True,(v) Other / unclassified,False
+PRR35,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+PRR5,1,5,(v) Other / unclassified,,True,(v) Other / unclassified,False
+PSMA1,1,32,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+PTBP1,1,17,(ii) Metabolic regulation (incl. one-carbon),(ii) Metabolic regulation (incl. one-carbon);(iv) Neurodevelopment & synaptic function,True,(iv) Neurodevelopment & synaptic function,True
+PTCHD3P1,2,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+PTPN14,1,7,(v) Other / unclassified,,True,(v) Other / unclassified,False
+PTPN6,2,36,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+PTPRE,1,5,(i) Growth factor & hormone signalling,(i) Growth factor & hormone signalling;(iii) Immune & inflammatory (incl. JAK-STAT),True,(i) Growth factor & hormone signalling,False
+PTPRF,1,12,(iv) Neurodevelopment & synaptic function,(iv) Neurodevelopment & synaptic function,False,(iv) Neurodevelopment & synaptic function,False
+PTPRN2,2,7,(iv) Neurodevelopment & synaptic function,(iv) Neurodevelopment & synaptic function,False,(iv) Neurodevelopment & synaptic function,False
+PYGM,1,5,(ii) Metabolic regulation (incl. one-carbon),(ii) Metabolic regulation (incl. one-carbon),False,(ii) Metabolic regulation (incl. one-carbon),False
+PYROXD2,1,1,(v) Other / unclassified,,True,(v) Other / unclassified,False
+QSOX2,1,2,(v) Other / unclassified,,True,(v) Other / unclassified,False
+RAB11FIP2,1,13,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+RAB4B-EGLN2,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+RAB6B,1,9,(iv) Neurodevelopment & synaptic function,(iv) Neurodevelopment & synaptic function,False,(iv) Neurodevelopment & synaptic function,False
+RADIL,3,4,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT);(iv) Neurodevelopment & synaptic function,True,(iii) Immune & inflammatory (incl. JAK-STAT),False
+RAI1,1,5,(v) Other / unclassified,,True,(v) Other / unclassified,False
+RALGDS,1,3,(v) Other / unclassified,,True,(v) Other / unclassified,False
+RAP1B,1,15,(iv) Neurodevelopment & synaptic function,(iv) Neurodevelopment & synaptic function,False,(iv) Neurodevelopment & synaptic function,False
+RAP1GAP2,3,5,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+RARA,1,50,(i) Growth factor & hormone signalling,(i) Growth factor & hormone signalling;(iii) Immune & inflammatory (incl. JAK-STAT);(iv) Neurodevelopment & synaptic function,True,(i) Growth factor & hormone signalling,False
+RARB,1,8,(v) Other / unclassified,,True,(v) Other / unclassified,False
+RARG,1,22,(v) Other / unclassified,,True,(i) Growth factor & hormone signalling,True
+RASA3,3,6,(v) Other / unclassified,,True,(v) Other / unclassified,False
+RASGEF1A,1,4,(v) Other / unclassified,,True,(v) Other / unclassified,False
+RASGEF1B,1,2,(v) Other / unclassified,,True,(v) Other / unclassified,False
+RASSF1,1,8,(v) Other / unclassified,,True,(v) Other / unclassified,False
+RASSF3,1,2,(v) Other / unclassified,,True,(v) Other / unclassified,False
+RBFOX2,1,10,(i) Growth factor & hormone signalling,(i) Growth factor & hormone signalling;(ii) Metabolic regulation (incl. one-carbon);(iv) Neurodevelopment & synaptic function,True,(i) Growth factor & hormone signalling,False
+RBM33,1,2,(v) Other / unclassified,,True,(v) Other / unclassified,False
+RBMS1,1,2,(v) Other / unclassified,,True,(v) Other / unclassified,False
+RCAN1,1,7,(i) Growth factor & hormone signalling,(i) Growth factor & hormone signalling,False,(i) Growth factor & hormone signalling,False
+RCAN2,1,2,(v) Other / unclassified,,True,(v) Other / unclassified,False
+RCC2,1,18,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+RGL1,1,4,(v) Other / unclassified,,True,(v) Other / unclassified,False
+RGS12,6,4,(v) Other / unclassified,,True,(v) Other / unclassified,False
+RGS8,1,5,(v) Other / unclassified,,True,(v) Other / unclassified,False
+RHBG,1,8,(v) Other / unclassified,,True,(v) Other / unclassified,False
+RHOF,1,8,(v) Other / unclassified,,True,(v) Other / unclassified,False
+RHOU,1,10,(v) Other / unclassified,,True,(v) Other / unclassified,False
+RIN1,1,3,(v) Other / unclassified,,True,(v) Other / unclassified,False
+RMDN2,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+RNF141,1,1,(v) Other / unclassified,,True,(v) Other / unclassified,False
+RNF182,1,3,(v) Other / unclassified,,True,(v) Other / unclassified,False
+RNF220,1,12,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT);(iv) Neurodevelopment & synaptic function,True,(iv) Neurodevelopment & synaptic function,True
+ROR1,1,9,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+RPE65,1,17,(ii) Metabolic regulation (incl. one-carbon),(ii) Metabolic regulation (incl. one-carbon);(iv) Neurodevelopment & synaptic function,True,(ii) Metabolic regulation (incl. one-carbon),False
+RPL3,1,8,(v) Other / unclassified,,True,(v) Other / unclassified,False
+RPS6KA2,1,8,(iv) Neurodevelopment & synaptic function,(iv) Neurodevelopment & synaptic function,False,(iv) Neurodevelopment & synaptic function,False
+RPSAP52,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+RPTOR,1,38,(v) Other / unclassified,,True,(i) Growth factor & hormone signalling,True
+RTEL1-TNFRSF6B,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+RTN4RL1,1,7,(iv) Neurodevelopment & synaptic function,(iv) Neurodevelopment & synaptic function,False,(iv) Neurodevelopment & synaptic function,False
+RUNX3,6,24,(i) Growth factor & hormone signalling,(i) Growth factor & hormone signalling;(iii) Immune & inflammatory (incl. JAK-STAT);(iv) Neurodevelopment & synaptic function,True,(i) Growth factor & hormone signalling,False
+S100A6,1,4,(iv) Neurodevelopment & synaptic function,(iv) Neurodevelopment & synaptic function,False,(iv) Neurodevelopment & synaptic function,False
+SALL3,1,5,(v) Other / unclassified,,True,(v) Other / unclassified,False
+SAMD13,2,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+SC5D,1,9,(ii) Metabolic regulation (incl. one-carbon),(ii) Metabolic regulation (incl. one-carbon),False,(ii) Metabolic regulation (incl. one-carbon),False
+SCAF4,1,3,(v) Other / unclassified,,True,(v) Other / unclassified,False
+SCOC,2,2,(v) Other / unclassified,,True,(v) Other / unclassified,False
+SCUBE3,1,5,(v) Other / unclassified,,True,(v) Other / unclassified,False
+SDPR,2,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+SEC63,1,8,(v) Other / unclassified,,True,(v) Other / unclassified,False
+SEL1L,1,13,(ii) Metabolic regulation (incl. one-carbon),(ii) Metabolic regulation (incl. one-carbon),False,(ii) Metabolic regulation (incl. one-carbon),False
+SELP,1,18,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+SEMA4C,1,16,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT);(iv) Neurodevelopment & synaptic function,True,(iv) Neurodevelopment & synaptic function,True
+SEMA4F,1,9,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT);(iv) Neurodevelopment & synaptic function,True,(iv) Neurodevelopment & synaptic function,True
+SEMA6B,1,11,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT);(iv) Neurodevelopment & synaptic function,True,(iv) Neurodevelopment & synaptic function,True
+SENP2,1,12,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+SERTAD2,2,2,(v) Other / unclassified,,True,(v) Other / unclassified,False
+SETD1B,1,1,(v) Other / unclassified,,True,(v) Other / unclassified,False
+SF1,1,6,(iv) Neurodevelopment & synaptic function,(iv) Neurodevelopment & synaptic function,False,(iv) Neurodevelopment & synaptic function,False
+SFSWAP,2,3,(iv) Neurodevelopment & synaptic function,(iv) Neurodevelopment & synaptic function,False,(iv) Neurodevelopment & synaptic function,False
+SFXN3,1,8,(ii) Metabolic regulation (incl. one-carbon),(ii) Metabolic regulation (incl. one-carbon),False,(ii) Metabolic regulation (incl. one-carbon),False
+SGK223,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+SH2D2A,1,2,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+SIK3,1,5,(v) Other / unclassified,,True,(v) Other / unclassified,False
+SKAP2,1,1,(v) Other / unclassified,,True,(v) Other / unclassified,False
+SKI,1,41,(i) Growth factor & hormone signalling,(i) Growth factor & hormone signalling;(iv) Neurodevelopment & synaptic function,True,(i) Growth factor & hormone signalling,False
+SKIDA1,3,1,(v) Other / unclassified,,True,(v) Other / unclassified,False
+SLAMF6,1,6,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+SLC10A5,1,1,(v) Other / unclassified,,True,(v) Other / unclassified,False
+SLC12A4,1,10,(v) Other / unclassified,,True,(v) Other / unclassified,False
+SLC17A5,1,12,(iv) Neurodevelopment & synaptic function,(iv) Neurodevelopment & synaptic function,False,(iv) Neurodevelopment & synaptic function,False
+SLC1A5,1,17,(v) Other / unclassified,,True,(ii) Metabolic regulation (incl. one-carbon),True
+SLC30A7,1,9,(v) Other / unclassified,,True,(v) Other / unclassified,False
+SLC35C2,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+SLC38A2,1,40,(iv) Neurodevelopment & synaptic function,(iv) Neurodevelopment & synaptic function,False,(iv) Neurodevelopment & synaptic function,False
+SLC39A13,1,15,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+SLC41A1,1,14,(v) Other / unclassified,,True,(v) Other / unclassified,False
+SLC43A2,1,14,(ii) Metabolic regulation (incl. one-carbon),(ii) Metabolic regulation (incl. one-carbon),False,(ii) Metabolic regulation (incl. one-carbon),False
+SLC45A1,1,6,(v) Other / unclassified,,True,(v) Other / unclassified,False
+SLC8A1,1,47,(v) Other / unclassified,,True,(v) Other / unclassified,False
+SLC9A3R2,2,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+SLCO3A1,1,12,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+SLFN12L,1,1,(v) Other / unclassified,,True,(v) Other / unclassified,False
+SMARCC2,1,17,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+SMG7,1,5,(v) Other / unclassified,,True,(v) Other / unclassified,False
+SMIM13,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+SMYD3,1,3,(v) Other / unclassified,,True,(v) Other / unclassified,False
+SNX18,2,18,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+SNX29,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+SOGA1,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+SORL1,1,51,(i) Growth factor & hormone signalling,(i) Growth factor & hormone signalling;(iii) Immune & inflammatory (incl. JAK-STAT);(iv) Neurodevelopment & synaptic function,True,(iv) Neurodevelopment & synaptic function,True
+SOX6,1,17,(i) Growth factor & hormone signalling,(i) Growth factor & hormone signalling;(iv) Neurodevelopment & synaptic function,True,(iv) Neurodevelopment & synaptic function,True
+SOX7,1,6,(v) Other / unclassified,,True,(v) Other / unclassified,False
+SP3,1,10,(v) Other / unclassified,,True,(v) Other / unclassified,False
+SPAG5-AS1,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+SPG7,1,11,(iv) Neurodevelopment & synaptic function,(iv) Neurodevelopment & synaptic function,False,(iv) Neurodevelopment & synaptic function,False
+SPIDR,1,12,(v) Other / unclassified,,True,(v) Other / unclassified,False
+SPOP,1,7,(v) Other / unclassified,,True,(v) Other / unclassified,False
+SPPL2B,1,7,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+SPSB1,1,5,(v) Other / unclassified,,True,(v) Other / unclassified,False
+ST3GAL1,1,15,(ii) Metabolic regulation (incl. one-carbon),(ii) Metabolic regulation (incl. one-carbon);(iii) Immune & inflammatory (incl. JAK-STAT);(iv) Neurodevelopment & synaptic function,True,(ii) Metabolic regulation (incl. one-carbon),False
+ST7,2,2,(v) Other / unclassified,,True,(v) Other / unclassified,False
+STAMBPL1,1,6,(v) Other / unclassified,,True,(v) Other / unclassified,False
+STAR,1,14,(i) Growth factor & hormone signalling,(i) Growth factor & hormone signalling;(ii) Metabolic regulation (incl. one-carbon),True,(i) Growth factor & hormone signalling,False
+STARD9,1,3,(v) Other / unclassified,,True,(v) Other / unclassified,False
+STK39,1,45,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+STOML2,1,16,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+STRA6,3,37,(i) Growth factor & hormone signalling,(i) Growth factor & hormone signalling;(iv) Neurodevelopment & synaptic function,True,(i) Growth factor & hormone signalling,False
+STX18-AS1,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+STXBP5,1,4,(v) Other / unclassified,,True,(v) Other / unclassified,False
+SUCLA2,1,11,(ii) Metabolic regulation (incl. one-carbon),(ii) Metabolic regulation (incl. one-carbon),False,(ii) Metabolic regulation (incl. one-carbon),False
+SUCLG1,1,6,(ii) Metabolic regulation (incl. one-carbon),(ii) Metabolic regulation (incl. one-carbon),False,(ii) Metabolic regulation (incl. one-carbon),False
+SUFU,1,17,(v) Other / unclassified,,True,(i) Growth factor & hormone signalling,True
+SYNPO2,1,4,(v) Other / unclassified,,True,(v) Other / unclassified,False
+SYT8,1,5,(iv) Neurodevelopment & synaptic function,(iv) Neurodevelopment & synaptic function,False,(iv) Neurodevelopment & synaptic function,False
+TANK,1,12,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+TATDN2,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+TBC1D1,1,1,(v) Other / unclassified,,True,(v) Other / unclassified,False
+TBL1XR1,1,7,(v) Other / unclassified,,True,(v) Other / unclassified,False
+TCEA2,3,5,(v) Other / unclassified,,True,(v) Other / unclassified,False
+TCF4,1,10,(iv) Neurodevelopment & synaptic function,(iv) Neurodevelopment & synaptic function,False,(iv) Neurodevelopment & synaptic function,False
+TCF7L2,1,33,(i) Growth factor & hormone signalling,(i) Growth factor & hormone signalling;(ii) Metabolic regulation (incl. one-carbon);(iii) Immune & inflammatory (incl. JAK-STAT),True,(i) Growth factor & hormone signalling,False
+TCIRG1,1,11,(v) Other / unclassified,,True,(v) Other / unclassified,False
+TECR,1,10,(ii) Metabolic regulation (incl. one-carbon),(ii) Metabolic regulation (incl. one-carbon),False,(ii) Metabolic regulation (incl. one-carbon),False
+TEF,4,4,(v) Other / unclassified,,True,(v) Other / unclassified,False
+TEX29,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+TFEB,1,23,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+THEM4,1,6,(ii) Metabolic regulation (incl. one-carbon),(ii) Metabolic regulation (incl. one-carbon),False,(ii) Metabolic regulation (incl. one-carbon),False
+TIAM2,5,7,(iv) Neurodevelopment & synaptic function,(iv) Neurodevelopment & synaptic function,False,(iv) Neurodevelopment & synaptic function,False
+TIGD5,2,3,(v) Other / unclassified,,True,(v) Other / unclassified,False
+TIGD7,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+TIMM8B,1,3,(v) Other / unclassified,,True,(v) Other / unclassified,False
+TIPARP,1,4,(v) Other / unclassified,,True,(v) Other / unclassified,False
+TLDC2,1,1,(v) Other / unclassified,,True,(v) Other / unclassified,False
+TMC3,1,1,(v) Other / unclassified,,True,(v) Other / unclassified,False
+TMC6,1,3,(v) Other / unclassified,,True,(v) Other / unclassified,False
+TMCC2,1,2,(ii) Metabolic regulation (incl. one-carbon),(ii) Metabolic regulation (incl. one-carbon),False,(ii) Metabolic regulation (incl. one-carbon),False
+TMED10,1,23,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+TMEM110-MUSTN1,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+TMEM119,1,26,(v) Other / unclassified,,True,(iii) Immune & inflammatory (incl. JAK-STAT),True
+TMEM190,1,1,(v) Other / unclassified,,True,(v) Other / unclassified,False
+TMEM201,1,7,(v) Other / unclassified,,True,(v) Other / unclassified,False
+TMEM206,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+TMEM235,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+TMEM239,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+TMEM65,1,11,(v) Other / unclassified,,True,(v) Other / unclassified,False
+TNFAIP3,1,63,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT);(iv) Neurodevelopment & synaptic function,True,(iii) Immune & inflammatory (incl. JAK-STAT),False
+TNFRSF18,1,8,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+TNFRSF8,1,7,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+TNIK,2,14,(iv) Neurodevelopment & synaptic function,(iv) Neurodevelopment & synaptic function,False,(iv) Neurodevelopment & synaptic function,False
+TNNT3,1,8,(v) Other / unclassified,,True,(v) Other / unclassified,False
+TOPAZ1,1,1,(v) Other / unclassified,,True,(v) Other / unclassified,False
+TOX,3,21,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT);(iv) Neurodevelopment & synaptic function,True,(iii) Immune & inflammatory (incl. JAK-STAT),False
+TRABD,1,2,(v) Other / unclassified,,True,(v) Other / unclassified,False
+TRAF5,1,17,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+TRAPPC9,3,4,(iv) Neurodevelopment & synaptic function,(iv) Neurodevelopment & synaptic function,False,(iv) Neurodevelopment & synaptic function,False
+TREML1,1,6,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+TRERF1,3,6,(v) Other / unclassified,,True,(v) Other / unclassified,False
+TRHR,2,3,(v) Other / unclassified,,True,(v) Other / unclassified,False
+TRIM36,2,9,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+TRIM8,1,12,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+TRIP6,1,6,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+TRMT44,1,1,(ii) Metabolic regulation (incl. one-carbon),(ii) Metabolic regulation (incl. one-carbon),False,(ii) Metabolic regulation (incl. one-carbon),False
+TRPM2,1,31,(iv) Neurodevelopment & synaptic function,(iv) Neurodevelopment & synaptic function,False,(iv) Neurodevelopment & synaptic function,False
+TRPV2,1,11,(iv) Neurodevelopment & synaptic function,(iv) Neurodevelopment & synaptic function,False,(iv) Neurodevelopment & synaptic function,False
+TSC2,2,25,(i) Growth factor & hormone signalling,(i) Growth factor & hormone signalling;(iv) Neurodevelopment & synaptic function,True,(i) Growth factor & hormone signalling,False
+TSNARE1,1,4,(v) Other / unclassified,,True,(v) Other / unclassified,False
+TSPAN15,1,7,(v) Other / unclassified,,True,(v) Other / unclassified,False
+TSPAN2,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+TTBK1,1,8,(iv) Neurodevelopment & synaptic function,(iv) Neurodevelopment & synaptic function,False,(iv) Neurodevelopment & synaptic function,False
+UBALD2,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+UCK2,1,9,(iv) Neurodevelopment & synaptic function,(iv) Neurodevelopment & synaptic function,False,(iv) Neurodevelopment & synaptic function,False
+UHRF1,3,23,(ii) Metabolic regulation (incl. one-carbon),(ii) Metabolic regulation (incl. one-carbon),False,(ii) Metabolic regulation (incl. one-carbon),False
+UNC5CL,1,7,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+UPK2,1,2,(v) Other / unclassified,,True,(v) Other / unclassified,False
+VPS45,1,4,(v) Other / unclassified,,True,(v) Other / unclassified,False
+VWA3B,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+WEE1,1,6,(v) Other / unclassified,,True,(v) Other / unclassified,False
+WNT5B,1,13,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT);(iv) Neurodevelopment & synaptic function,True,(iii) Immune & inflammatory (incl. JAK-STAT),False
+WNT8A,1,13,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT);(iv) Neurodevelopment & synaptic function,True,(iii) Immune & inflammatory (incl. JAK-STAT),False
+XPO7,1,5,(v) Other / unclassified,,True,(v) Other / unclassified,False
+XRCC3,3,21,(v) Other / unclassified,,True,(v) Other / unclassified,False
+XRCC6BP1,1,0,(v) Other / unclassified,,True,(v) Other / unclassified,False
+XXYLT1,1,4,(v) Other / unclassified,,True,(v) Other / unclassified,False
+YWHAQ,1,5,(v) Other / unclassified,,True,(v) Other / unclassified,False
+ZBTB10,1,2,(v) Other / unclassified,,True,(v) Other / unclassified,False
+ZBTB20,1,7,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+ZBTB4,1,5,(v) Other / unclassified,,True,(v) Other / unclassified,False
+ZBTB46,1,9,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+ZDHHC19,1,3,(v) Other / unclassified,,True,(v) Other / unclassified,False
+ZEB2-AS1,1,1,(v) Other / unclassified,,True,(v) Other / unclassified,False
+ZFP36L1,1,60,(i) Growth factor & hormone signalling,(i) Growth factor & hormone signalling;(iii) Immune & inflammatory (incl. JAK-STAT),True,(i) Growth factor & hormone signalling,False
+ZFPM1,1,41,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+ZFPM2,1,23,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+ZFYVE9,1,5,(i) Growth factor & hormone signalling,(i) Growth factor & hormone signalling,False,(i) Growth factor & hormone signalling,False
+ZHX2,1,5,(iv) Neurodevelopment & synaptic function,(iv) Neurodevelopment & synaptic function,False,(iv) Neurodevelopment & synaptic function,False
+ZMIZ1,1,12,(i) Growth factor & hormone signalling,(i) Growth factor & hormone signalling;(iii) Immune & inflammatory (incl. JAK-STAT);(iv) Neurodevelopment & synaptic function,True,(i) Growth factor & hormone signalling,False
+ZMIZ2,1,6,(i) Growth factor & hormone signalling,(i) Growth factor & hormone signalling,False,(i) Growth factor & hormone signalling,False
+ZNF19,2,2,(v) Other / unclassified,,True,(v) Other / unclassified,False
+ZNF274,1,5,(v) Other / unclassified,,True,(v) Other / unclassified,False
+ZNF438,1,2,(v) Other / unclassified,,True,(v) Other / unclassified,False
+ZNF503,1,4,(v) Other / unclassified,,True,(v) Other / unclassified,False
+ZNF688,1,2,(v) Other / unclassified,,True,(v) Other / unclassified,False
+ZNF697,1,2,(iii) Immune & inflammatory (incl. JAK-STAT),(iii) Immune & inflammatory (incl. JAK-STAT),False,(iii) Immune & inflammatory (incl. JAK-STAT),False
+ZNRF2,1,5,(v) Other / unclassified,,True,(v) Other / unclassified,False
+ZW10,1,17,(v) Other / unclassified,,True,(v) Other / unclassified,False
