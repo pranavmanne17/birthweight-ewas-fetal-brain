@@ -2,7 +2,7 @@
 
 Code and output tables for:
 
-> Manne P. *Maternal Micronutrient Deficiency, DNA Methylation, and Fetal Neurodevelopment in Low-Resource Settings: A Secondary Analysis of Growth-Associated EWAS Signatures.* bioRxiv (2026). doi: [add after posting]
+> Manne,  P. Maternal Micronutrient Deficiency, DNA Methylation, and Fetal Neurodevelopment in Low-Resource Settings: A Secondary Analysis of Growth-Associated EWAS Signatures. Preprints 2026, 2026101299. https://doi.org/10.20944/preprints202610.1299.v1
 
 The study re-annotates published DNA methylation signals for two nutrition-sensitive growth phenotypes: 914 birthweight-associated CpGs (729 genes) from the PACE consortium meta-analysis (Küpers et al., 2019) and three SOCS3 CpGs associated with child height in low- and middle-income country cohorts (Issarapu et al., 2023). No new methylation data were generated and no individual-level data were used.
 
